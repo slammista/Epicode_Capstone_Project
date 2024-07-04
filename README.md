@@ -37,13 +37,19 @@ Troviamo nella pagina overview un sunto di quella che è la situazione dell'azie
 Cosa notiamo dai dati?
 
 - Abbiamo una leggera prevalenza di donne rispetto agli uomini.
+- Il 77% degli employee performa secondo tutti gli standard.
+- Circa il 60% dei dipendenti è nella fascia di età compresa tra i 35 e i 45 anni.
+- Il marital status degli employee è caratterizzato principalmente da Single (43%) e Married (42%)
 - Abbiamo una presenza maggiore di persone di razza Bianca/Caucasica ma lo stipendio medio più alto appartiene a un gruppo di persone di razza ispanica.
-- Abbiamo un numero di dipendenti crescente fino al 2015.
+- Abbiamo il maggior numero di dipendenti nel 2011.
+- Il 34% dei dipendenti totali ha lasciato l'azienda.
+- Nonostante il numero di dipendenti che ha lasciato l'azienda, solo il 3-4% dei dipendenti si è dimostrato scontento nelle survey sulla soddisfazione in azienda.
 - Il dipartimento dove c'è maggiore termine del rapporto lavorativo è Production.
 - Le motivazioni principali per l'abbandono del rapporto lavorativo sono l'infelicità dei dipendenti o l'aver ricevuto una nuova proposta di lavoro.
 
 
-Conclusioni
+
+*Conclusioni*
 
 Da questi dati possiamo notare che c'è stata una diminuzione dei dipendenti causata principalmente da infelicità e nuove offerte di lavoro che hanno portato alla diminuzione drastica della forza lavoro nell'azienda.
 
