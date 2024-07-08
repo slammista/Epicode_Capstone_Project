@@ -4,16 +4,9 @@ Capstone Project by Matteo Aslam
 Ciao a tutti!
 In questo progetto ho creato una dashboard per un nuovo cliente.
 
-*Contesto*
+*Finalità*
 
-Il cliente vuole lanciare un nuovo progetto dopo la decadenza del precedente; 
-partito nel 2006 da una piccola impresa è arrivato ad avere un buon numero di dipendenti, l'azienda sembrava in fase di crescita ma avuto una decrescita nel giro di pochi anni e il cliente non sa spiegarsi il perché.
-
-Nella fase di richiesta dei requisiti ho quindi chiesto cosa volesse vedere dei dati di questa vecchia azienda.
-
-Mi ha chiesto di creare una dashboard che desse un'overview sulla situazione dei dipendenti,  una parte demografica e una parte per il motivo del termine del rapporto lavorativo, andando a cercare di scoprire perché non si sono trovati bene.
-
-Ho chiesto dove potevo reperire dati sulla vecchia azienda e mi ha fornito un file di testo dove all'interno c'erano già tutti i dati che gli interessavano.
+Ho creato un diagramma ER su cui ho costruito il database su MySQL WorkBench per collegare i miei dati a un modello app creato su PowerBI che può essere utile, una volta connessi a un database, per poter monitorare l'andamento delle performance dei dipendenti, l'anagrafica e le eventuali motivazioni dell'abbandono del posto di lavoro.
 
 *Fase di preparazione dei dati*
 
