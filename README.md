@@ -18,6 +18,8 @@ Dopo aver fatto vari passaggi di pulizia di dati che contenevano errori di batti
 
 Una volta fatto questo ho chiuso mysql, ho aperto powerbi desktop e tramite il connettore di mysql ho importato tutte le tabelle con Power Query.
 
+Arrivato in PowerQuery ho fatto dei merge per eliminare il numero di tabelle e raggrupparle in 3 tabelle utili a creare uno Star Schema in PowerBI.
+
 Avendo ora tutto il mio database connesso ho creato una nuova tabella Calendar per le dimensioni Data dopo di ché ho proceduto con le visualizzazioni dati.
 
 Dopo aver scelto una palette adatta per il tipo di pubblico a cui andrò a proporre la dashboard, ho pubblicato il report su PowerBI Service dal quale poi ho proceduto con la creazione dell'app accessibile.
